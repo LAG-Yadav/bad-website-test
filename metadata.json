@@ -1,0 +1,6 @@
+{
+  "name": "BadWeb Institute — Questionable Web Design",
+  "description": "A satirical one-page museum of terrible user interfaces, over-engineered contraptions, and questionable digital decisions, pre-configured for Cloudflare Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
